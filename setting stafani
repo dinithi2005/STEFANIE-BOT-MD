@@ -31,16 +31,16 @@ function _0x21e9(_0x5a8c78,_0x20668e){const _0x14c1c6=_0x14c1();return _0x21e9=f
 
 //bot details
  
-global.owner = ['94xxxxxxxxx']
-global.ownertag = '94xxxxxxxxx' //for tag numero
+global.owner = ['94760155633']
+global.ownertag = '94760155633' //for tag numero
 global.botname = 'Queen Stefanie' //ur bot name
-global.linkz = "https://youtube.com/channel/UCKW8EUxAo6A" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCKW8EUxAo6A" //ur website to be displayed
-global.botscript = 'https://github.com/whiteshadowofficial/STEFANIE-BOT-MD' //script link
+global.linkz = "https://sites.google.com/view/chathuminabot/home" //your theme url which will be displayed on whatsapp
+global.websitex = "https://sites.google.com/view/chathuminabot/home" //ur website to be displayed
+global.botscript = 'https://sites.google.com/view/chathuminabot/home' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Made by Queen 👸Stefanie👸" //ur sticker watermark packname
-global.author = "Mr.White Shadow" //ur sticker watermark author
+global.author = "SL CHATHUMINA" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./StefanieMedia/image/Stefanie.png") //ur thumb pic
@@ -49,7 +49,7 @@ global.err4r = fs.readFileSync("./StefanieMedia/image/Stefanie.png") //ur error 
 global.thumb = fs.readFileSync("./StefanieMedia/image/Stefanie.png") //ur thumb pic
 
 //damtabase
-global.premium = ['94xxxxxxxxx'] //ur premium numbers
+global.premium = ['94760155633'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
