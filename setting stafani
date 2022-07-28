@@ -1,0 +1,73 @@
+//════════════════════════════//
+//If you want to recode, reupload
+//or copy the codes/script,
+//pls give credit
+//no credit? i will take action immediately
+//© 2022 Stefanie Bot Inc. 
+//Thank you to Mr.chabby, Family and Myself
+//════════════════════════════//
+//
+//════════════════════════════//
+//සුබ හීන පෙනේනා....🤭
+
+//රෑ තිස්සේ නොනිදා......🤗
+
+//පෙම් හීන මල්බර උනාවේ......😌
+
+//හිත දෝරේ එනවා.......☺️
+
+//උබේ ආලේ ඉල්ලා.....🥰
+
+//ලන් වෙන්න කාලය තමයි මේ.....❤️
+
+//තරු දෑස හෙමින් කියන කතා.....😘
+
+//හොදින් වැටහුනා...🌸🌹
+
+//මා දන්නෑ වගේ උන්නා......🤭😌🥰❤️👀
+//════════════════════════════//
+
+function _0x21e9(_0x5a8c78,_0x20668e){const _0x14c1c6=_0x14c1();return _0x21e9=function(_0x21e97f,_0xf3dce8){_0x21e97f=_0x21e97f-0x183;let _0x1547aa=_0x14c1c6[_0x21e97f];return _0x1547aa;},_0x21e9(_0x5a8c78,_0x20668e);}function _0x14c1(){const _0x3200e1=['19074vCVVKs','94779529221','403290gTwCpO','autoTyping','6UOTQzU','India,\x20Mizoram,\x20Aizawl','application/vnd.openxmlformats-officedocument.wordprocessingml.document','7fnHBvy','./StefanieMedia/image/Stefanie.png','chalk','application/vnd.openxmlformats-officedocument.spreadsheetml.sheet','3059576bzXXeL','3936294bvBpPy','readFileSync','https://zenzapis.xyz','application/vnd.openxmlformats-officedocument.presentationml.presentation','vidmenu','590941wbEhpm','available','doc2','doc1','doc5','252lDvaRJ','221127frYWQQ','autoRecord','autoReadGc','YT:\x20WS\x20MODS','APIKeys','9970GEKOnC','doc3','25565YGHgxW','application/vnd.android.package-archive'];_0x14c1=function(){return _0x3200e1;};return _0x14c1();}const _0x41bbe2=_0x21e9;(function(_0x549237,_0x2157c0){const _0x14f110=_0x21e9,_0x2940f5=_0x549237();while(!![]){try{const _0x42e9e3=-parseInt(_0x14f110(0x199))/0x1+-parseInt(_0x14f110(0x18c))/0x2*(parseInt(_0x14f110(0x19f))/0x3)+parseInt(_0x14f110(0x19e))/0x4*(-parseInt(_0x14f110(0x186))/0x5)+-parseInt(_0x14f110(0x194))/0x6+parseInt(_0x14f110(0x18f))/0x7*(parseInt(_0x14f110(0x193))/0x8)+parseInt(_0x14f110(0x18a))/0x9+-parseInt(_0x14f110(0x184))/0xa*(-parseInt(_0x14f110(0x188))/0xb);if(_0x42e9e3===_0x2157c0)break;else _0x2940f5['push'](_0x2940f5['shift']());}catch(_0x523d77){_0x2940f5['push'](_0x2940f5['shift']());}}}(_0x14c1,0x594fb));const fs=require('fs'),chalk=require(_0x41bbe2(0x191));global['APIs']={'zenz':_0x41bbe2(0x196)},global[_0x41bbe2(0x183)]={'https://zenzapis.xyz':'your\x20key'},global[_0x41bbe2(0x18b)]=![],global['autoreadpmngc']=!![],global[_0x41bbe2(0x1a1)]=!![],global[_0x41bbe2(0x1a0)]=![],global[_0x41bbe2(0x19a)]=!![],global[_0x41bbe2(0x198)]=fs[_0x41bbe2(0x195)](_0x41bbe2(0x190)),global[_0x41bbe2(0x19c)]=_0x41bbe2(0x197),global[_0x41bbe2(0x19b)]=_0x41bbe2(0x192),global[_0x41bbe2(0x185)]=_0x41bbe2(0x18e),global['doc4']='application/zip',global[_0x41bbe2(0x19d)]='application/pdf',global['doc6']=_0x41bbe2(0x187),global['vcardowner']=[_0x41bbe2(0x189)],global['ownername']='Mr.White\x20Shadow',global['ytname']=_0x41bbe2(0x1a2),global['socialm']='GitHub:\x20whiteshadowofficial',global['location']=_0x41bbe2(0x18d);
+
+//bot details
+ 
+global.owner = ['94xxxxxxxxx']
+global.ownertag = '94xxxxxxxxx' //for tag numero
+global.botname = 'Queen Stefanie' //ur bot name
+global.linkz = "https://youtube.com/channel/UCKW8EUxAo6A" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UCKW8EUxAo6A" //ur website to be displayed
+global.botscript = 'https://github.com/whiteshadowofficial/STEFANIE-BOT-MD' //script link
+global.reactmoji = "😘" //ur menu react emoji
+global.themeemoji = "🦄" //ur theme emoji
+global.packname = "Made by Queen 👸Stefanie👸" //ur sticker watermark packname
+global.author = "Mr.White Shadow" //ur sticker watermark author
+
+//Bot theme media
+global.thum = fs.readFileSync("./StefanieMedia/image/Stefanie.png") //ur thumb pic
+global.log0 = fs.readFileSync("./StefanieMedia/image/Stefanie.png") //ur logo pic
+global.err4r = fs.readFileSync("./StefanieMedia/image/Stefanie.png") //ur error pic
+global.thumb = fs.readFileSync("./StefanieMedia/image/Stefanie.png") //ur thumb pic
+
+//damtabase
+global.premium = ['94xxxxxxxxx'] //ur premium numbers
+global.ntilinkytvid = []
+global.ntilinkytch = []
+global.ntilinkig = []
+global.ntilinkfb = []
+global.ntilinktg = []
+global.ntilinktt = []
+global.ntilinktwt = []
+global.ntilinkall = []
+global.nticall = []
+global.ntwame = []
+global.nttoxic = []
+global.ntnsfw = []
+global.ntvirtex = []
+global.rkyt = []
+global.wlcm = []
+global.gcrevoke = []
+global.autorep = []
+global.ntilink = []
+
+//omther
+function _0x5f4f(_0x562413,_0x1f9688){const _0x2d53aa=_0x2d53();return _0x5f4f=function(_0x5f4fae,_0x48a87e){_0x5f4fae=_0x5f4fae-0x145;let _0x294ba0=_0x2d53aa[_0x5f4fae];return _0x294ba0;},_0x5f4f(_0x562413,_0x1f9688);}const _0xe82de7=_0x5f4f;function _0x2d53(){const _0x9c0a7=['cache','The\x20nsfw\x20feature\x20has\x20not\x20been\x20activated,\x20please\x20contact\x20the\x20admin\x20to\x20activate','10369330bWWbiW','This\x20Feature\x20Is\x20Only\x20For\x20Bot','https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text=','4122XrQAAo','7140952lYvtHl','session','Features\x20Used\x20Only\x20For\x20Private\x20Chat!','Done\x20✓','1379208AXASDw','You\x20have\x20been\x20banned\x20by\x20the\x20owner,\x20if\x20you\x20want\x20to\x20be\x20unbanned,\x20chat\x20owner.','This\x20Feature\x20Is\x20Only\x20For\x20Owner!','flarun','Feature\x20Used\x20Only\x20For\x20Groups!','fluming','5410854ALziAh','flaming','readFileSync','2894565pnGaBC','Error!!','prefa','Infinity','Update\x27','189erkwMp','rpg','limitawal','5585733VhymnB','flasmurf','Bot\x20Must\x20Be\x20Admin\x20First!','Your\x20Daily\x20Limit\x20Has\x20Expired,\x20The\x20Limit\x20Will\x20Be\x20Reset\x20Every\x2012\x20Hours','7bXZBCY','https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text=','unwatchFile','The\x20bot\x20was\x20banned\x20in\x20this\x20group,\x20please\x20contact\x20the\x20owner\x20to\x20unban','redBright','Where\x20is\x20the\x20link?','6kFHxxh','sessionName','In\x20process...','resolve','mess'];_0x2d53=function(){return _0x9c0a7;};return _0x2d53();}(function(_0x2333c9,_0x43dfb2){const _0x394753=_0x5f4f,_0x53a45a=_0x2333c9();while(!![]){try{const _0x5d57ff=parseInt(_0x394753(0x159))/0x1*(-parseInt(_0x394753(0x146))/0x2)+parseInt(_0x394753(0x166))/0x3*(parseInt(_0x394753(0x14b))/0x4)+parseInt(_0x394753(0x154))/0x5+-parseInt(_0x394753(0x151))/0x6*(parseInt(_0x394753(0x160))/0x7)+parseInt(_0x394753(0x147))/0x8+parseInt(_0x394753(0x15c))/0x9+-parseInt(_0x394753(0x16d))/0xa;if(_0x5d57ff===_0x43dfb2)break;else _0x53a45a['push'](_0x53a45a['shift']());}catch(_0xa1368){_0x53a45a['push'](_0x53a45a['shift']());}}}(_0x2d53,0x6eb7e),global[_0xe82de7(0x167)]=_0xe82de7(0x148),global['antitags']=!![],global[_0xe82de7(0x156)]=['','!','.','🐦','🐤','🗿'],global['sp']='⭔',global[_0xe82de7(0x16a)]={'success':_0xe82de7(0x14a),'admin':'This\x20Feature\x20Is\x20Only\x20For\x20Admin!','botAdmin':_0xe82de7(0x15e),'owner':_0xe82de7(0x14d),'group':_0xe82de7(0x14f),'private':_0xe82de7(0x149),'bot':_0xe82de7(0x16e),'wait':_0xe82de7(0x168),'linkm':_0xe82de7(0x165),'error':_0xe82de7(0x155),'endLimit':_0xe82de7(0x15f),'ban':_0xe82de7(0x14c),'nsfw':_0xe82de7(0x16c),'banChat':_0xe82de7(0x163)},global[_0xe82de7(0x15b)]={'premium':_0xe82de7(0x157),'free':0xc,'monayawal':0x3e8},global[_0xe82de7(0x15a)]={'darahawal':0x64,'besiawal':0xf,'goldawal':0xa,'emeraldawal':0x5,'umpanawal':0x5,'potionawal':0x1},global['thumb']=fs[_0xe82de7(0x153)]('./StefanieMedia/image/Stefanie.png'),global[_0xe82de7(0x152)]=_0xe82de7(0x145),global[_0xe82de7(0x150)]=_0xe82de7(0x161),global[_0xe82de7(0x14e)]='https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text=',global[_0xe82de7(0x15d)]='https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text=');let file=require[_0xe82de7(0x169)](__filename);fs['watchFile'](file,()=>{const _0x2d96f1=_0xe82de7;fs[_0x2d96f1(0x162)](file),console['log'](chalk[_0x2d96f1(0x164)](_0x2d96f1(0x158)+__filename+'\x27')),delete require[_0x2d96f1(0x16b)][file],require(file);});
